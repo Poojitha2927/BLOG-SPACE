@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React BlogSpace
 
 A full-stack React application with a BlogSpace, featuring JWT authentication and MongoDB integration.
@@ -71,3 +72,6 @@ From the root directory:
 5. Open your browser to the frontend URL (typically http://localhost:5173)
 
 The backend and frontend will run simultaneously and reload automatically when you make changes. 
+=======
+# BLOG-SPACE
+>>>>>>> 7f51f8945b803af35612cb8ddbeb2f86b3e5469a
